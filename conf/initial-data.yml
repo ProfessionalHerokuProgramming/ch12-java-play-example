@@ -1,0 +1,21 @@
+employees:
+
+    - !!models.Employee
+        id: 1034
+        name: Alice Tien
+        email: atien@vandelayenterprises.com
+        
+    - !!models.Employee
+        id: 2319
+        name: Dina Lafoyiannis
+        email: dlafoyiannis@vandelayenterprises.com
+        
+    - !!models.Employee
+        id: 7721
+        name: Jeff Dickie
+        email: jdickie@vandelayenterprises.com
+        
+    - !!models.Employee
+        id: 9393
+        name: Lucia Orsini
+        email: lorsini@vandelayenterprises.com
